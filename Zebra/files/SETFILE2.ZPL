@@ -23,8 +23,8 @@
 ! U1 setvar "device.syslog.save_local_file" "yes"
 
 -- RFID 関連
-! U1 setvar "rfid.reader_1.power.read" "16"
-! U1 setvar "rfid.reader_1.power.write" "16"
+! U1 setvar "rfid.reader_1.power.read" "20"
+! U1 setvar "rfid.reader_1.power.write" "20"
 ! U1 setvar "rfid.position.program" ""
 ! U1 setvar "rfid.reader_1.antenna_port" "A1"
 
