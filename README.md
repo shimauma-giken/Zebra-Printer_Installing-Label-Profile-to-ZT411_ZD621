@@ -28,9 +28,9 @@ USB:.
     ├─commands      
     ├─feedback                
     └─files  
-            Profile1.ZPL   ラベルプロファイル1  
-            Profile2.ZPL   ラベルプロファイル2  
-            Profile3.ZPL   ラベルプロファイル3  
+            setfile1.ZPL   ラベルプロファイル1  
+            setfile2.ZPL   ラベルプロファイル2  
+            setfile3.ZPL   ラベルプロファイル3  
             DEL_STAMP.ZPL  USB-Mirrorタイムスタンプを削除  
   </pre>
   
