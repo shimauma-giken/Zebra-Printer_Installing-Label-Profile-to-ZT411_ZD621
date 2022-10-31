@@ -18,6 +18,7 @@
  ------  
  USB 内のファイル構成  
  ------  
+ <pre>
 USB:.  
 │  
 └─Zebra  
@@ -29,6 +30,7 @@ USB:.
             Profile2.ZPL   ラベルプロファイル2  
             Profile3.ZPL   ラベルプロファイル3  
             DEL_STAMP.ZPL  USB-Mirrorタイムスタンプを削除  
+  </pre>
   
  ------  
  プロファイルを切り替える手順  
